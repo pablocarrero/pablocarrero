@@ -3,7 +3,7 @@
    <h2 align="center">¡Bienvenido 👋!</h2>
 </p>
 
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 1 año de experiencia.<br /></p>
+<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con casi 2 años de experiencia.<br /></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/carrerogarciapablo/" target="blank" placeholder="Perfil de Linkedin">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pablocarrero" height="25px" width="25px" />
