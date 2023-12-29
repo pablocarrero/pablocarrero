@@ -3,17 +3,17 @@
    <h2 align="center">¡Bienvenido 👋!</h2>
 </p>
 
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con casi 2 años de experiencia.<br /></p>
+<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 2 años de experiencia.<br /></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/carrerogarciapablo/" target="blank" placeholder="Perfil de Linkedin">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pablocarrero" height="25px" width="25px" />
   </a>
 </p>
 
-Me dedico profesionalmente al desarrollo de aplicaciones modernas para varios proyectos con clientes que operan dentro y fuera de España. :man_student:	Estudié Ingeniería electrónica industrial en la Universidad de Sevilla y posteriormente hice un potsgrado en la Universidad Politécnica de Valencia enfocado en comunicaciones ópticas, inalámbricas y móviles , pero desde los 16 años empecé por mi cuenta a aprender y estudiar desarrollo web, en particular JavaScript :man_technologist:	
+Me dedico profesionalmente al desarrollo de aplicaciones modernas para varios proyectos con clientes que operan dentro España. :man_student:	Estudié Ingeniería electrónica industrial en la Universidad de Sevilla y posteriormente hice un potsgrado en la Universidad Politécnica de Valencia enfocado en comunicaciones ópticas, inalámbricas y móviles , pero desde los 16 años empecé por mi cuenta a aprender y estudiar desarrollo web, en particular JavaScript :man_technologist:	
 
 ### Ocupación :construction_worker:	
-Desarrollador **Full Stack Junior** :computer: para Viewnext, empresa del grupo IBM
+Desarrollador **FrontEnd Vue** :computer: para Iteriam
 
 ### Stack tecnológico :star2:	
 **Front**
