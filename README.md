@@ -13,23 +13,13 @@
 Me dedico profesionalmente al desarrollo de aplicaciones modernas para varios proyectos con clientes que operan dentro España. :man_student:	Estudié Ingeniería electrónica industrial en la Universidad de Sevilla y posteriormente hice un potsgrado en la Universidad Politécnica de Valencia enfocado en comunicaciones ópticas, inalámbricas y móviles , pero desde los 16 años empecé por mi cuenta a aprender y estudiar desarrollo web, en particular JavaScript :man_technologist:	
 
 ### Ocupación :construction_worker:	
-Desarrollador **FrontEnd Vue** :computer: para Iteriam
+**Vue FrontEnd Developer** :computer: para Iteriam
+Migración de aplicaciones en Vue 2 con la Options API a Vue 3 con Composition API
+Desarrollo nuevas funcionalidades en proyecto con Vue 2
+Mantenimiento de librerías UI y de i18-n propias para el proyecto
 
-### Stack tecnológico :star2:	
-**Front**
-<br>
-Arquitectura basada en microfrontales, todos en Vue 2/3, desarrollados en TypeScript, orquestados por Qiankun y desplegados en OpenShift :abacus:	. Como librerías para el diseño, utilizo PrimeVue y Vuetify :paintbrush:	. Para la gestión de autenticación, trabajo con Keycloak. Debido a los requerimientos del producto final, trabajo con un servicio de mapas interactivos gracias a ArcgisJs :world_map:	
-<br>
-<br>
-**Back**
-<br>
-Microservicios desarrollados en Node (Express) :mailbox_with_no_mail:	con llamadas a distintos SaSS, como por ejemplo IBM Máximo para la búsqueda de activos
-
-Intento en la mayor medida de lo posible desarrollar con una arquitectura **Clean Code**, siguiendo una estructura jerarquizada de componentes determinada por todo el equipo de desarrollo, para estar todos a una. De igual forma, comentar código y tipar siempre que se pueda, en resumen, dejar el código tal y como me gustaría encontrarmelo a mí
-
-### Aprendiendo :student:	
-Mi objetivo personal y profesional es llegar a ser **Arquitecto FullStack** :man_factory_worker:	, de tal forma que pueda guiar al equipo en el desarrollo de aplicaciones con una arquitectura sólida y gestione los despliegues y arquitectura de todo un proyecto.
-
-Además, Python ha sido uno de los lenguajes de programación que más me ha llamado la atención por su enorme flexibilidad. De forma autodidacta, he trabajado con él desarrollando algoritmos con estructuras de datos, etc... Debido a su enorme potencial para desarrollar backs, estoy dedicando tiempo a formarme en FastApi y Django
+### Mi objetivo profesional :student:	
+Mi objetivo personal y profesional es llegar a ser **Arquitecto FrontEnd** :man_factory_worker:	, de tal forma que pueda guiar al equipo en el desarrollo de aplicaciones con una arquitectura sólida y gestione los despliegues y arquitectura de todo un proyecto.
 
 🔗 Portafolios: :soon:
+🔗 Enciclopedia parásitos: https://parasight.netlify.app/home
