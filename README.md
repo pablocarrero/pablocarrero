@@ -24,5 +24,5 @@ Mantenimiento y desarrollo de nuevos componentes para una librería de component
 ### Mi objetivo profesional :student:	
 Mi objetivo profesional es llegar a ser **Arquitecto FrontEnd** :man_factory_worker:	, de tal forma que pueda guiar al equipo en el desarrollo de aplicaciones con una arquitectura sólida, gestionando despliegues y definiendo una metodología de trabajo eficaz y única, teniendo como base el compartir conocimientos y crear documentación
 
-🔗 Portafolios: :soon: <br>
+🔗 Portafolios: https://pablocarrerogarcia.netlify.app/ <br>
 🔗 Enciclopedia parásitos: https://parasight.netlify.app
