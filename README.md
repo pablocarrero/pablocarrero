@@ -15,8 +15,8 @@ Me dedico profesionalmente al desarrollo de aplicaciones modernas en Javascript 
 Como casi todos los desarrolladores, también llevo en paralelo varios <strong>proyectos personales</strong>. Los puedes encontrar buscando en mis repositorios, pero algunos están en privado!
 
 ### Ocupación actual :construction_worker:	
-**FrontEnd Engineer** :computer: para Iteriam <br>
-Stack: Vue 3 / Composition API / Pinia / Typescript / Vueuse / Storybook
+**FrontEnd Engineer** :computer: para Knowmad-mood <br>
+<strong>Stack</strong>: Vue 3 / Composition API / Pinia / Typescript / Vueuse / Storybook <br>
 Mantenimiento de aplicaciones puestas en producción para importante cliente del sector seguros
 Desarrollo de nuevas aplicaciones desde cero trabajando codo con codo con otro desarrollador, ambos encargados de toda la parte front de este cliente
 Mantenimiento y desarrollo de nuevos componentes para una librería de componentes reutilizables propia del cliente
