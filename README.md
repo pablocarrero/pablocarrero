@@ -17,9 +17,9 @@ Como casi todos los desarrolladores, también llevo en paralelo varios <strong>p
 ### Ocupación actual :construction_worker:	
 **FrontEnd Engineer** :computer: para Knowmad-mood <br>
 <strong>Stack</strong>: Vue 3 / Composition API / Pinia / Typescript / Vueuse / Storybook <br>
-Mantenimiento de aplicaciones puestas en producción para importante cliente del sector seguros
-Desarrollo de nuevas aplicaciones desde cero trabajando codo con codo con otro desarrollador, ambos encargados de toda la parte front de este cliente
-Mantenimiento y desarrollo de nuevos componentes para una librería de componentes reutilizables propia del cliente
+Mantenimiento de aplicaciones puestas en producción para importante cliente del sector seguros <br>
+Desarrollo de nuevas aplicaciones desde cero trabajando codo con codo con otro desarrollador, ambos encargados de toda la parte front de este cliente <br>
+Mantenimiento y desarrollo de nuevos componentes para una librería de componentes reutilizables propia del cliente <br>
 
 ### Mi objetivo profesional :student:	
 Mi objetivo profesional es llegar a ser **Arquitecto FrontEnd** :man_factory_worker:	, de tal forma que pueda guiar al equipo en el desarrollo de aplicaciones con una arquitectura sólida, gestionando despliegues y definiendo una metodología de trabajo eficaz y única, teniendo como base el compartir conocimientos y crear documentación
